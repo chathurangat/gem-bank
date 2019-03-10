@@ -152,7 +152,7 @@
 				items: 3
 			}
 		}
-	})
+	});
 	
 	// ______________Testimonial-owl-carousel2
 	var owl = $('.testimonial-owl-carousel2');
@@ -210,7 +210,6 @@
 		autoplay: true,
 		animateIn: 'fadeInDowm',
 		animateOut: 'fadeOutDown',
-		autoplay: false,
 		autoplayTimeout: 5000, // set value to change speed
 		autoplayHoverPause: true,
 		dots: false,
