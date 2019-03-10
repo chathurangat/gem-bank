@@ -62,8 +62,10 @@
     text-align: center;
 }
 
+.featured-seller-profile{
+    margin-top: 20px;
+}
+
 @media (max-width: 830px) {
-    .featured-seller-profile{
-        margin-top: 20px;
-    }
+    
 }
