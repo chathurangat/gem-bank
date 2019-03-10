@@ -45,7 +45,10 @@
     font-style: italic;
 }
 
-.text-featured-seller-location{
+.text-featured-seller-location{  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
     color: rgb(121, 151, 250);
 }
 
@@ -53,4 +56,14 @@
     color: #8b88f8 !important;
     font-style: italic;
     font-weight: bold;
+}
+
+.featured-seller-avatar{
+    text-align: center;
+}
+
+@media (max-width: 830px) {
+    .featured-seller-profile{
+        margin-top: 20px;
+    }
 }
