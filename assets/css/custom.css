@@ -1,0 +1,50 @@
+.header-btn-group{
+
+    margin-top: 20px;
+}
+
+
+.find-btn{
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+
+
+.imageDiv{
+    position: relative;
+    height:300px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.imageTag{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+
+.bg-bronze{
+    background-color:  #cd7f32 !important;
+}
+
+.bg-silver{
+    background-color: silver !important;
+}
+
+.bg-gold{
+    background-color: gold !important;
+}
+
+.bg-platinum{
+    background-color: #e5e4e2 !important;
+}
+
+.text-featured-seller-details{
+    font-style: italic;
+}
+
+.text-featured-seller-location{
+    color: rgb(121, 151, 250);
+}
