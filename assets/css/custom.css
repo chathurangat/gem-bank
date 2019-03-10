@@ -48,3 +48,9 @@
 .text-featured-seller-location{
     color: rgb(121, 151, 250);
 }
+
+.text-featured-gems-seller{
+    color: #8b88f8 !important;
+    font-style: italic;
+    font-weight: bold;
+}
