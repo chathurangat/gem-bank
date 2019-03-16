@@ -79,6 +79,11 @@
     left: 0 !important;
 }
 
+.seller-profile-avatar{
+    width: auto;
+    height: 10rem;
+}
+
 @media (max-width: 830px) {
 
 }
