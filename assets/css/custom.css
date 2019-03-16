@@ -1,71 +1,84 @@
-.header-btn-group{
+.header-btn-group {
 
     margin-top: 20px;
 }
 
+.header-banner-main-text {
+    margin-top: 10px;
+}
 
-.find-btn{
-    margin-top: 25px;
+.find-btn {
+    /*margin-top: 25px;*/
     font-size: 15px;
 }
 
-
-
-.imageDiv{
+.imageDiv {
     position: relative;
-    height:300px;
+    height: 300px;
     width: 100%;
     overflow: hidden;
 }
 
-.imageTag{
+.imageTag {
     width: 100%;
     height: auto;
     overflow: hidden;
 }
 
-
-.bg-bronze{
-    background-color:  #cd7f32 !important;
+.bg-bronze {
+    background-color: #cd7f32 !important;
 }
 
-.bg-silver{
+.bg-silver {
     background-color: silver !important;
 }
 
-.bg-gold{
+.bg-gold {
     background-color: gold !important;
 }
 
-.bg-platinum{
+.bg-platinum {
     background-color: #e5e4e2 !important;
 }
 
-.text-featured-seller-details{
+.text-featured-seller-details {
     font-style: italic;
 }
 
-.text-featured-seller-location{  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+.text-featured-seller-location {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
     color: rgb(121, 151, 250);
 }
 
-.text-featured-gems-seller{
+.text-featured-gems-seller {
     color: #8b88f8 !important;
     font-style: italic;
     font-weight: bold;
 }
 
-.featured-seller-avatar{
+.featured-seller-avatar {
     text-align: center;
 }
 
-.featured-seller-profile{
+.featured-seller-profile {
     margin-top: 20px;
 }
 
+.avatar-xxl {
+    width: 10rem;
+    height: 10rem;
+    line-height: 5rem;
+    font-size: 2rem;
+}
+
+.ribbon-top-left {
+    top: 0 !important;
+    left: 0 !important;
+}
+
 @media (max-width: 830px) {
-    
+
 }
