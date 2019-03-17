@@ -79,10 +79,15 @@
     left: 0 !important;
 }
 
-.seller-profile-avatar{
+.seller-profile-avatar {
     width: auto;
     height: 10rem;
 }
+
+.seller-profile-gem-listing-header {
+    border-bottom: none !important;
+}
+
 
 @media (max-width: 830px) {
 
